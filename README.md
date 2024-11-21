@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fa0000,100:080808&height=180&text=Full%20Stack%20Engineer&animation=fadeIn&fontColor=1ecca1&fontSize=50" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fa0000,100:080808&height=180&text=Back_end Developer&animation=fadeIn&fontColor=1ecca1&fontSize=50" />
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 짧은 자기소개 </h2>  
