@@ -3,7 +3,7 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 자기소개 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> <li> 성장을 위해 매번 "Why?"라는 질문을 스스로에게 던져 문제를 해결하려고 하는 개발자입니다.</li><li> 풀스택을 향해 열심히 노력하는 중입니다. </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> <li> 성장을 위해 매번 "Why?"라는 질문을 스스로에게 던져 문제를 해결하려고 하는 사람.</li><li> 살아남기 위해 노력하는 사람 </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
